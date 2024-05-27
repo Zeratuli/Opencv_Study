@@ -1,2 +1,3 @@
 # Opencv_Study
-Read the README file
+This file will record my opencv-Introduction-learning code
+
